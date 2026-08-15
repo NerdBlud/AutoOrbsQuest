@@ -20,10 +20,7 @@ The script is configured to safely intercept Discord's Webpack chunk loading upo
 
 This repository is organized into core modules to ensure maintainability and high performance:
 
-* **`auto-orbs.user.js`**: The injection engine. It handles Webpack store interception, API routing, and manages the lifecycle of the quest progression logic.
-* **`ui-framework.js`**: The core UI renderer. Contains inline CSS variables mapped directly to Discord's native palette (`--brand-experiment`, `--background-primary`) for seamless integration.
-* **`api-interceptor.js`**: The network layer. Interacts securely with `QuestsStore`, `ChannelStore`, and Discord's internal `tn.get` / `Bo.get` wrappers.
-* **`LICENSE`**: MIT License.
+* **`script.js`**: The injection engine. It handles Webpack store interception, API routing, and manages the lifecycle of the quest progression logic.
 * **`README.md`**: Project documentation and technical specifications.
 
 ---
