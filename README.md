@@ -10,7 +10,7 @@ A performance-optimized, modular automation tool for Discord Quests.
 ## Installation Instructions
 
 1. Install a userscript manager such as **Tampermonkey** or **Violentmonkey** (or run directly via the Discord Web Client `F12` Developer Console).
-2. **[Click here](https://www.google.com/search?q=https://github.com/nerdblud/AutoOrbs/raw/master/auto-orbs.user.js)** to install the Nerdblud Auto Orbs script.
+2. **[Click here](https://www.google.com/search?q=https://github.com/nerdblud/AutoOrbsQuest/raw/master/script.js)** to install the Nerdblud Auto Orbs script.
 
 The script is configured to safely intercept Discord's Webpack chunk loading upon initialization, ensuring a secure binding to internal APIs without requiring the user to expose their authorization token.
 
