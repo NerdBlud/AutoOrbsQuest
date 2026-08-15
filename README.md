@@ -1,5 +1,6 @@
 # Nerdblud Auto Orbs
 ![Nerdblud Auto Orbs Preview](./preview.png)
+
 A performance-optimized, modular automation tool for Discord Quests.
 
 **Account Security Standards**: This script is built with account safety and stealth as a priority. All API payloads utilize humanized timing variations (jitter) and sequential event loops. API requests clear the minimum human-reaction threshold to prevent bot-detection flags and rate-limiting during automated quest farming.
